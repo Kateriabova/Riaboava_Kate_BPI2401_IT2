@@ -1,0 +1,13 @@
+[2025-11-17 00:11:43] CustomEmailFormatException: Email адрес не может быть пустым
+[2025-11-17 00:11:45] CustomEmailFormatException: Email должен содержать символ '@'
+[2025-11-17 00:11:47] CustomEmailFormatException: Некорректный формат email
+[2025-11-17 00:11:49] CustomEmailFormatException: Доменная часть должна содержать точку
+[2025-11-17 00:11:52] CustomEmailFormatException: Доменная часть не может начинаться или заканчиваться точкой
+[2025-11-17 00:11:55] CustomEmailFormatException: Доменная часть не может начинаться или заканчиваться точкой
+[2025-11-17 00:11:59] CustomEmailFormatException: Доменная часть не может начинаться или заканчиваться точкой
+[2025-11-17 00:12:11] CustomEmailFormatException: Email не должен содержать две точки подряд
+[2025-11-17 00:12:19] CustomEmailFormatException: Email не должен содержать две точки подряд
+[2025-11-17 00:12:40] CustomEmailFormatException: Локальная часть email не может быть пустой
+[2025-11-17 00:13:06] CustomEmailFormatException: Локальная часть не может начинаться или заканчиваться точкой
+[2025-11-17 00:13:14] CustomEmailFormatException: Доменная часть должна содержать точку
+[2025-11-17 00:13:29] CustomEmailFormatException: Локальная часть не может начинаться или заканчиваться точкой
